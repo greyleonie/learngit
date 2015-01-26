@@ -10,3 +10,5 @@ add this line for test modify again...hahaha
 test remote commit again...
 
 f1 and master move the file to an other pc. git branch test
+
+test merge f1 & master
