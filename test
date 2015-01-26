@@ -11,7 +11,7 @@ test remote commit again...
 
 f1 and master move the file to an other pc. git branch test
 
-test merge f1 and master
+test merge f1 and master, modify bug ....
 
 test merge f2 and master
 
