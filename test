@@ -15,3 +15,5 @@ test merge f1 and master, modify bug ....
 
 test merge f2 and master
 
+test push conflict 1
+
